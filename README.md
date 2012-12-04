@@ -1,4 +1,0 @@
-Gobblet-Game
-============
-
-Gobblet Game

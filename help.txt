@@ -1,18 +1,19 @@
 Gobblet Rules
-Gobblet set:
-Is a board with 16 cells.There are 24 playing pieces (12 of each
-color for 2 players). Playing pieces are called gobblets. There are   
-gobblets of 4 sizes, so each player has 3 big, 3 medium, 3 small and 
-3 mini gobblets.
-Gobblet goal:
-Is to build a line of 4 gobblets. To win you can build a line horizontally,
-vertically or diagonally.   
-Start the game:
-The first player put one of his gobblets on the board. then the turn comes to 
-the second player. Then turn comes to the first player he can choose between 
-change a position of an existing gobblet or add new gobblet to the board. Then 
-the turn comes to the second player with the same rules. If there are more than 
-tow gobblets in a row for the same player the opponent can cover it with bigger 
-gobblet. Even the player can cover his gobblet to treck the opponent.       
-The first player build a line is the winner.             
 
+The playing area is a board with 16 
+cells.There are 24 playing pieces 
+called "gobblets", 12 of each color 
+for 2 players. There are gobblets of 
+4 sizes, so each player has 3 big, 3 
+medium, 3 small and 3 mini gobblets.
+
+Each player takes turns either placing 
+a gobblet on the board, moving a 
+gobblet to a new position on the board, 
+or "gobble" a smaller piece.
+Players can gobble either their 
+opponent's or their own gobblets.
+
+The first player to build a horizontal, 
+vertial or diagonal line of 4 gobblets 
+is the winner!
