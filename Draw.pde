@@ -1,6 +1,6 @@
 void draw()
 {
-  
+ 
 
   // Draw the board
   theBoard();
